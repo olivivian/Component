@@ -1,0 +1,26 @@
+ /* span{
+        width: 70px;
+        text-align: justify;
+    }
+    input{
+        width: 100px;
+    }*/
+    /*不起作用*/
+    /*text-align:justify 不处理块内的最后一行文本*/
+
+     span{
+        width: 100px;
+        text-align: justify;
+        float: left;
+    }
+    span:after{
+        content:'.';
+        width: 100%;
+        display: inline-block;
+        overflow: hidden;
+        height: 0;
+    }
+    input{
+        width: 100px;
+    }
+    /* span设置为float: left。:after为inline-block*/

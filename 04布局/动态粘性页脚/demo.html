@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>动态粘性页脚</title>
+	<link rel="stylesheet" type="text/css" href="demo.css">
+</head>
+<body>
+<!-- 粘性页脚要满足两个条件：
+	1、内容不超过 main body 的时候，页脚固定在页面底部
+	2、内容超过 main body 的时候，页脚跟在 main body 后面 -->
+	<div class="parent">
+	  <div class="main">
+	    <p class="content">这是一段内容</p>
+	    <p class="content">可以添加多段内容</p>
+	  </div>
+	  <div class="footer">
+	    <p class="content">页脚</p>
+	  </div>
+	</div>
+</body>
+</html>

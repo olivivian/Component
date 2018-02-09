@@ -1,0 +1,123 @@
+* html {
+	background-image: url("about:blank"); background-attachment: fixed;
+}
+* html body {
+	background-image: url("about:blank"); background-attachment: fixed;
+}
+.flflfl {
+	float: left;
+}
+.close {
+	background: url("guanbi.png") no-repeat 0px 0px; top: 4px; width: 26px; height: 28px; right: 10px; overflow: hidden; padding-top: 15px; position: absolute; cursor: pointer;
+}
+.login-arrow {
+	width: 30px; height: 15px;
+}
+.login-wrap {
+	left: 0px; width: 100%; bottom: 0px; position: fixed; z-index: 999; _position: absolute; _width: auto;
+}
+.login-ie6-fixed {
+	bottom: 0px;
+}
+.login-box {
+	background: rgba(217, 230, 187, 0.9); padding: 18px 0px 7px; border-top-color: rgb(210, 224, 177); border-bottom-color: rgb(210, 224, 177); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; box-shadow: 2px 2px 6px #8ca226;
+}
+.login-user {
+	margin: 0px auto; width: 980px; height: 70px; position: relative;
+}
+.login-user a {
+	color: rgb(102, 102, 102);
+}
+.login-user a:visited {
+	color: rgb(102, 102, 102);
+}
+.login-user a:hover {
+	color: rgb(6, 87, 178);
+}
+.login-user .txt {
+	padding: 3px; border: 1px solid rgb(216, 216, 216); color: rgb(51, 51, 51);
+}
+.login-user .txt:hover {
+	border-color: rgb(125, 189, 226);
+}
+.login-user .txt:focus {
+	border-color: rgb(125, 189, 226);
+}
+.login-title {
+	display: inline; position: relative;
+}
+.login-cont {
+	display: inline; position: relative;
+}
+.login-ft {
+	display: inline; position: relative;
+}
+.login-title {
+	color: rgb(140, 162, 38); margin-right: 10px; margin-bottom: 14px;
+}
+.login-title h3 {
+	font: 400 24px/30px "Microsoft YaHei", SimHei; height: 30px; margin-top: 3px; font-size-adjust: none; font-stretch: normal;
+}
+.login-cont {
+	height: 63px;
+}
+.login-cont .mg0 {
+	margin: 0px;
+}
+.login-cont .txt {
+	width: 140px; height: 25px; color: rgb(153, 153, 153); line-height: 25px; font-size: 14px; margin-bottom: 10px; float: left; -ms-zoom: 1;
+}
+.login-cont .login-captcha {
+	width: 112px;
+}
+.login-cont .login-captcha .txt {
+	margin-bottom: 0px;
+}
+.login-cont ul {
+	left: 0px; top: 0px; width: 720px; position: absolute;
+}
+.login-cont li {
+	height: 80px; overflow: hidden; margin-right: 10px; float: left; display: inline;
+}
+.login-cont .login-item {
+	color: rgb(102, 102, 102); clear: both;
+}
+.login-cont .login-item input {
+	margin-top: -2px;
+}
+.login-cont .login-button {
+	background: rgb(127, 156, 20); border-radius: 6px; border: 1px solid rgb(185, 201, 125); width: 64px; height: 33px; text-align: center; color: rgb(255, 255, 255); line-height: 33px; font-size: 14px; font-weight: 700; margin-right: 10px; float: left; display: block;
+}
+.login-cont .login-button:visited {
+	background: rgb(127, 156, 20); border-radius: 6px; border: 1px solid rgb(185, 201, 125); width: 64px; height: 33px; text-align: center; color: rgb(255, 255, 255); line-height: 33px; font-size: 14px; font-weight: 700; margin-right: 10px; float: left; display: block;
+}
+.login-cont .login-button:hover {
+	background: rgb(168, 183, 72); border-radius: 6px; border: 1px solid rgb(185, 201, 125); color: rgb(255, 255, 255); text-decoration: none;
+}
+.login-cont .login-label {
+	width: 112px; font-size: 14px; float: left; display: none;
+}
+.login-cont .login-qt {
+	width: 77px; height: 60px; border-right-color: rgb(180, 197, 116); border-right-width: 1px; border-right-style: solid;
+}
+#J_loginGuide .login-shortcut {
+	margin-top: 20px;
+}
+.login-button {
+	cursor: pointer;
+}
+.register-intro {
+	background: url("comiis_v_citybg.png") no-repeat right bottom rgb(255, 252, 233); margin: 0px auto 5px; padding: 15px; border: 1px solid rgb(216, 225, 169); width: 95%; height: 63px; color: rgb(102, 102, 102); font-size: 14px; float: left; position: relative; z-index: 10;
+}
+.register-intro strong {
+	color: rgb(140, 162, 38); font-family: "微软雅黑"; font-size: 16px; margin-bottom: 15px; display: block;
+}
+.btn_sm {
+	background: url("comiis_bg_btn.png") no-repeat 0px -204px; height: 30px; line-height: 33px; overflow: hidden; padding-left: 5px; font-size: 14px; vertical-align: middle; display: inline-block;
+}
+.btn_sm span {
+	background: url("comiis_bg_btn.png") no-repeat right -234px; padding: 0px 10px 0px 5px; color: rgb(255, 255, 255); font-weight: 800; float: left; cursor: pointer;
+}
+.register-intro .reg-close {
+	background: url("comiis_v_close.png") no-repeat 0px 0px; top: 7px; width: 7px; height: 0px; right: 8px; overflow: hidden; padding-top: 8px; display: block; position: absolute; cursor: pointer;
+}

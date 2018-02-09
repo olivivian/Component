@@ -1,0 +1,70 @@
+/*common*/
+li {
+    list-style: none;
+}
+.font_14 {
+    font-size: 14px;
+}
+.picborder_r {
+    border: 1px solid #fff;
+}
+.user_recom_new .name {
+    padding-top: 3px;
+}
+/*common end*/
+/*容器*/
+.MIB_200 {
+    width: 800px;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+.MIB_blogbody .mainR {
+    float: right;
+    padding-bottom: 100px;
+}
+.MIB_linkar {
+    background-color: #D7F4F8;
+}
+.MIB_txtar {
+    color: #666;
+}
+
+/*容器 end*/
+/*原浮动核心*/
+.f_pro ul.user_recom li {
+    float: left;
+    width: 52px;
+    height: 100px;/*要设宽高*/
+    padding: 3px 3px 5px 4px;
+    text-align: center;
+    line-height: 14px;
+}
+
+.f_pro ul.user_recom {
+    zoom: 1;
+    overflow: auto;/*更多在底部的关键，清除浮动*/
+}
+/*原浮动核心 end*/
+/*inline-block核心*/
+.user_recom_new li {
+    display: inline-block;
+    width: 52px;
+    line-height: 14px;
+    padding: 3px 3px 5px 4px;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    vertical-align: top;
+}
+/*inline-block核心 end*/
+.txt_right {
+    text-align: right;
+}
+/*text-jusyify下的inline-block自适应列表布局实例页面*/
+.box{width:50%; padding:20px; margin:20px auto; background-color:#f0f3f9; text-align:justify;}
+.list{width:120px; display:inline-block; padding-bottom:20px; text-align:center; vertical-align:top;}
+
+
+
+
+

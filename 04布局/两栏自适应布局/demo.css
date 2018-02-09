@@ -1,0 +1,28 @@
+.content {
+        display: table;
+        padding: 10px;
+        border: 2px solid #999;
+    }
+    
+    .left-box {
+        float: left;
+        margin-right: 10px;
+    }
+    
+    .right-box {
+        display: table-cell;
+        padding: 10px;
+        width: 3000px;
+        vertical-align: top;
+        border: 1px solid #ccc;
+    }
+/*左边头像部分使用了float左浮动属性，
+左侧使用 display: table-cell则实现了两列自适应布局。
+至于.right-box中的width：3000px
+
+display:table-cell 元素生成的匿名table默认table-layout:auto。
+宽度将基于单元格内容自动调整。
+当内容足够多将宽度完全撑开时，再让某个元素（例如关闭按钮）右侧定位就会有问题。
+所以设置width:3000px的用途是尽可能的宽的意思。
+
+对于IE6/7，我们可以使用display： inline-block属性代替。*/

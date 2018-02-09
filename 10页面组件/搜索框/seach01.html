@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>搜索框</title>
+	<style type="text/css">
+	/*common*/
+		body, div, span, a, ul, li, h1, h2, h3, h4, h5, h6, ul, li, dl, dt, dd, form, input, button, textarea, p, header, nav, select, option, ol, i, em {
+		    border: 0px;
+		    margin: 0;
+		    padding: 0;
+		    font-family: "Microsoft YaHei";
+		}
+		a{ text-decoration: none; border: 0px;}
+		.fl{ float: left;}
+	/*common end*/
+		.seach-wrap{
+			 width:540px;
+			  margin-left: 115px;
+			   margin-top:15px;
+		}
+		.search-form{ width:540px;}
+		.search-input-text{
+			 padding-left: 15px;
+			 border: 2px solid #e9511b;
+			  width:435px;  
+			  line-height: 35px; 
+			   height: 35px;
+			   font-size:12px;
+			   color: #a9a9a9;
+		}
+		.search-submit-button{
+			 width:85px;
+			 line-height: 39px; 
+			  height: 39px; 
+			   font-size: 16px; 
+			    color: #ffffff; 
+			    background-color: #e9511b;
+		}
+		.w-540{ width:540px;}
+		.seach-bottom-text{
+			 display: block;
+			 font-size:12px;
+			  color: #8b8b8b;
+			  line-height: 30px;
+			  margin-right: 20px;
+		}
+		.clear{ clear: both;}
+	</style>
+</head>
+<body>
+	 <!--web search start-->
+    <div class="search seach-wrap fl">
+        <form action="#" method="get" id="searchform" name="searchform" onSubmit="return checkSearchForm()" class="search-form">
+            <input class="search-input-text fl" type="text" name="keywords" id="keyword" value="搜索：初中物理" onfocus="if(this.value == '搜索：初中物理')this.value = ''" onblur="if(this.value == '')this.value='搜索：初中物理'" autocomplete="off">
+            <input type="hidden" value="k1" name="dataBi">
+            <button type="submit" class="search-submit-button fl">提交</button>
+        </form>
+        <div class="w-540 fl" id="hotkeywords"> <a href="#" class="seach-bottom-text fl">一年级</a> <a href="#" class="seach-bottom-text fl">二年级</a> <a href="#" class="seach-bottom-text fl">三年级</a> <a href="#" class="seach-bottom-text fl">语文</a> <a href="#" class="seach-bottom-text fl">数学</a>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!--web search end-->
+</body>  
+</html>  

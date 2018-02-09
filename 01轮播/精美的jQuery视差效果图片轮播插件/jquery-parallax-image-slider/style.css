@@ -1,0 +1,95 @@
+body{background-color: #272727}
+.bannerBox{
+	width: 662px;
+	height: 280px;
+	position: relative;
+	margin: 50px auto 0px;
+	cursor: pointer;
+}
+.bannerBox:hover .left{
+	display: block;
+}
+.bannerBox:hover .right{
+	display: block;
+}
+#swiper1,#swiper2{
+	width: 662px;
+	height: 280px;			
+}
+#swiper1{
+	filter:alpha(opacity=95);   
+	-moz-opacity:0.95;     
+	opacity: 0.95;   				
+}
+#swiper2{
+	position: absolute;
+	left: 0;top: 0;
+}
+#swiper1 .swiper-slide,#swiper1 img{
+	width: 662px;
+	height: 280px;
+	font-size: 100px;
+	line-height: 280px;
+	text-align: center;
+	object-fit: cover;
+}
+#swiper2 .swiper-slide,#swiper2 img{
+	width: 331px;
+	height: 280px;
+	font-size: 100px;
+	line-height: 280px;
+	text-align: center;
+	object-fit: cover;				
+}
+#swiper2 .swiper-slide{
+	overflow: hidden;
+}
+.direction img{
+	margin-top: 12px;
+}
+.left{
+	position: absolute;
+	top: 112px;
+	width: 26px;
+	height: 65px;
+	background-color: rgba(64,64,64,0.6);
+	text-align: center;
+	line-height: 65px;
+	border-bottom-right-radius: 4px;
+	border-top-right-radius: 4px;
+	z-index: 2;
+	display: none;
+}
+.left img{
+	width:15px ;
+	height: 28px;
+	margin-top: 18px;
+	margin-right: 3px;				
+}
+.right{
+	position: absolute;
+	top: 112px;
+	right: 0;
+	width: 26px;
+	height: 65px;
+	background-color: rgba(64,64,64,0.6);
+	border-bottom-left-radius: 4px;
+	border-top-left-radius: 4px;
+	z-index: 2;	
+	display: none;			
+}
+.right img{
+	width:15px ;
+	height: 28px;
+	margin-top: 18px;
+	margin-left: 6px;				
+}
+/*css3动画*/
+#swiper2 img{
+	transition: all .4s;
+}
+#swiper2 img:hover{
+	-ms-transform:scale(1.1); /* IE 9 */
+	-webkit-transform: scale(1.1); /* Safari */
+	transform: scale(1.1); /* 标准语法 */
+}

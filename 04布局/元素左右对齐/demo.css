@@ -1,0 +1,32 @@
+.content {
+        display: table;
+        padding: 10px;
+        margin: 10px auto;
+        width: 1000px;
+        border: 2px solid #999;
+    }
+     .left {
+        display: table-cell;
+        text-align: left;
+        border: 1px solid #0cf;
+    }
+    
+    .right {
+        display: table-cell;
+        text-align: right;
+        border: 1px solid #fc0;
+    }
+    .box {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        border: 1px solid #ccc;
+    }
+/*代码解释：
+A和B的父元素均设置了display：table-cell属性，
+所以它们均匀占据设置了display：table的div元素。
+而A和B元素设置display：inline-block是为了让它们相应text-align的属性设置。
+
+inline-block 是宽高margin设定有效，参与行内格式化上下文，
+在行内对齐时使用它自己的框底边为基线对齐位置。
+*/

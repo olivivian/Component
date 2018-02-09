@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>将数组中的数据去重</title>
+</head>
+<body>
+	
+</body>
+</html>
+<script type="text/javascript">
+
+	function unique(arr) {
+    var result = [], hash = {};
+    for (var i = 0, elem; (elem = arr[i]) != null; i++) {
+        if (!hash[elem]) {
+            result.push(elem);
+            hash[elem] = true;
+        }
+    }
+    return result;
+}
+	var arr = [1,1,2,3];
+    console.log(unique(arr));
+</script>

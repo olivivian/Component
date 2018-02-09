@@ -1,0 +1,13 @@
+.content {
+        display: table-cell;
+        padding: 10px;
+        border: 2px solid #999;
+    }
+    
+    .content div {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+/*display：table-cell 加上 vertical-align：middle 使高度不同的元素都垂直居中，
+其中div的display：inline-block使几个div在同一行显示。*/

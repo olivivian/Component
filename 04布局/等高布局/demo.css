@@ -1,0 +1,16 @@
+.content {
+        display: table;
+        padding: 10px;
+        border: 2px solid #999;
+    }
+    
+    .box1 {
+        display: table-cell;
+        width: 100px;
+        border: 1px solid #ccc;
+    }
+    
+    .box2 {
+        display: table-cell;
+        border: 1px solid #ccc;
+    }

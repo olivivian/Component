@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>b</title>
+	<style type="text/css">
+		.p{
+			display: none;
+		}
+	</style>
+</head>
+<body>
+	<p class="p">你好你好你好你好</p>
+</body>
+</html>
+<script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		var x = location.search.substr(1).split('=')[1];
+		$('.p').css('display',x);
+	})
+</script>

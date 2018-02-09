@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.parent {
+  color: #fff;
+  background: #eee;
+  height: 100%;
+  width: 100%;
+}
+.parent > div {
+  vertical-align: middle;
+  font-size: 40px;
+}
+.box {
+  width: 200px;
+  line-height: 200px;
+  background-color: #2795ee;
+  display: inline-block;
+  text-align: center;
+}
+/* 核心代码 */
+.parent {
+  display: table;
+}
+.parent > div {
+  display: table-cell;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
