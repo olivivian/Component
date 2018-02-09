@@ -1,7 +1,7 @@
 # Component
 
 ### 01轮播
-- JQuery轮播(一)
+- [JQuery轮播(一)](https://github.com/olivivian/Component/blob/master/01%E8%BD%AE%E6%92%AD/JQuery%E8%BD%AE%E6%92%AD(%E4%B8%80)/jiaoben5081/img/banner02.jpg)
 - 精美的jQuery视差效果图片轮播插件
 - 轮播
 
