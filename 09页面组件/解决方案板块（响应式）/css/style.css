@@ -1,0 +1,119 @@
+html, body{font-family:"微软雅黑",'Roboto-Regular'; font-size:100%; background:#f9f9f9; color:#666666 !important; margin:0 auto; padding:0;}
+a{text-decoration: none; color:#333; outline:none;}
+a:focus,a:hover {color:#f07203; outline:none;text-decoration: none;}
+a:hover {text-decoration: none; color:#f07203;}
+ul,li { list-style:none; display:block;  margin:0; padding:0;}
+body, div, span, h5, h6, p, blockquote, pre, a, abbr, acronym, address{margin:0;padding:0;border:0;font-size:14px;font:inherit;vertical-align:baseline;}
+img {border:0;vertical-align:bottom;}
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+*:before,*:after {-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+h1, h2, h3,h4, h5, h6 {margin: 0;}
+ul, ol,li {margin: 0;}
+p {margin: 0;}
+.img {display:block;max-width:100%;height:auto;}
+h5{font-size:18px;color:#595757;text-transform:uppercase;}
+
+.bg-white{background:#fff;}
+.p_title{width:100%; float:left; margin:50px 0 40px ; text-align:center;}
+.p_title span{ font-size:34px;}
+.p_title p{ line-height:40px;}
+.container{ padding:0 !important;}
+.container > .navbar-header,
+.container-fluid > .navbar-header,
+.container > .navbar-collapse,
+.container-fluid > .navbar-collapse {
+  margin-right:0px;
+  margin-left:0px;
+}
+
+/*--解决方案--*/
+.welcome-gridsinfo { text-align: center; padding-bottom:50px;}
+.welcome-grid{ width:25%; padding:0 5px; margin:50px 0 50px; float:left; position:relative; cursor:pointer; }
+.welcome-grid b{width:103px;height:103px;background:url(../images/icon-1.png) repeat-x;position:absolute; left:50%;top:-40px;margin-left:-51px; z-index:2;}
+.welcome-grid b.b1{background-position:0 0;}
+.welcome-grid b.b2{background-position:309px 0px;}
+.welcome-grid b.b3{background-position:206px 0px;}
+.welcome-grid b.b4{background-position:103px 0px;}
+.welcome-grid p {font-size:.85em; line-height:1.8em; }
+.welcome-grid h3 {color: #797979; padding: 21px 0 6px; }
+.welcome-grid .prd_box{width:100%;   float:left;}
+.welcome-grid .prd_1 .prd_d {background-color:#f86d0d;}
+.welcome-grid .prd_2 .prd_d {background-color:#96cb11;}
+.welcome-grid .prd_3 .prd_d {background-color:#4c8da5;}
+.welcome-grid .prd_4 .prd_d {background-color:#35af7c;}
+.welcome-grid .prd_t { width: 100%; 
+	min-height: 184px; 
+	padding: 57px 0 10px;
+	overflow: hidden;
+	text-align: center;
+	color: #fff; 
+	background: #797979 url(../images/bgSection.png);
+}
+.welcome-grid .prd_t h4{ font-size:20px; font-weight:normal; line-height:30px; margin:0 0 10px 0;}
+.welcome-grid .prd_t p{ font-size:12px; line-height:24px; padding:0 20px;}
+.welcome-grid .prd_d{width:100%;height:52px;overflow:hidden;line-height:52px;text-align:center;}
+.welcome-grid .prd_d:hover{filter:alpha(opacity=90); /*IE滤镜，透明度50%*/ -moz-opacity:0.9; opacity:0.9;}
+.welcome-grid .prd_d a{font-size:16px;color:#fff;}
+.welcome-grid .prd_d a:hover{color:#fff;}
+.fm_more{ width:100%; text-align:center; float:left;}
+.fm_more a{ color:#cbcbcb; font-size:18px; line-height:40px; border:2px solid #cbcbcb; padding:10px 32px;}
+.fm_more a:hover{ color:#fff; background:#797979; border:2px solid #797979;}
+
+@media(max-width:1199px){
+	/*--服务流程--*/
+	.liucheng{ background:#e3e3e3 url(../images/bgSection.png) repeat; width:100%;}
+	.lc2{ background:url(../images/line.png) center no-repeat;}
+	.lc_list{ width:100%; float:left; margin-bottom:80px;}
+	.lc_list li{ width:126px; margin:0 6px;  background-size:126px 126px;}
+	.lc_list li span{ width:60px; height:60px; background:url(../images/icon.png) repeat; display:block; float:left; margin:33px 0 50px 32px;}
+	.lc_list li p{ width:100%; display:block; float:left; text-align:center; font-size:18px;}
+	.lc_list li p font{ font-size:14px; margin-top:10px; width:100%; display:block; color:#666;}
+	/*--服务流程 end--*/
+}
+
+
+@media(max-width:1024px){
+	/*--服务流程--*/
+	.liucheng{ background:#e3e3e3 url(../images/bgSection.png) repeat; width:100%;}
+	.lc2{ background:url(../images/line.png) center no-repeat;}
+	.lc_list{ width:100%; float:left; margin-bottom:80px;}
+	.lc_list li{ width:126px; margin:0 6px;  background-size:126px 126px;}
+	.lc_list li span{ width:60px; height:60px; background:url(../images/icon.png) repeat; display:block; float:left; margin:33px 0 50px 32px;}
+	.lc_list li p{ width:100%; display:block; float:left; text-align:center; font-size:18px;}
+	.lc_list li p font{ font-size:14px; margin-top:10px; width:100%; display:block; color:#666;}
+	/*--服务流程 end--*/
+}
+
+
+@media(min-width:768px) and (max-width:991px){
+	/*--解决方案--*/
+	.welcome-grid {width:25%; float: left; margin-top: 2em; }
+	.welcome-grid h3 {padding: 14px 0 4px; }
+	.welcome-grid .prd_t h4{ font-size:18px; font-weight:normal; line-height:30px; margin:0;}
+	/*--解决方案 end--*/
+}
+
+@media(max-width:767px){
+	/*--解决方案--*/
+	.welcome-gridsinfo{ padding-left:10px; padding-right:10px;}
+	.welcome-grid {width:50%; float: left; margin-top: 2em; }
+	.welcome-grid h3 {padding: 14px 0 4px; }
+	.welcome-grid .prd_t h4{ font-size:20px; font-weight:normal; line-height:30px; margin:0;}
+	/*--解决方案 end--*/
+}
+
+@media(max-width:640px){
+	/*--解决方案--*/
+	.welcome-grid {width:50%; float: left; margin-top: 2em; }
+	.welcome-grid h3 {padding: 14px 0 4px; }
+	.welcome-grid .prd_t h4{ font-size:20px; font-weight:normal; line-height:30px; margin:0;}
+	/*--解决方案 end--*/
+}
+
+@media(max-width:480px){
+	/*--解决方案--*/
+	.welcome-grid {width:100%; float: left; margin-top: 2em; }
+	.welcome-grid h3 {padding: 14px 0 4px; }
+	.welcome-grid .prd_t h4{ font-size:20px; font-weight:normal; line-height:30px; margin:0;}
+	/*--解决方案 end--*/
+}
