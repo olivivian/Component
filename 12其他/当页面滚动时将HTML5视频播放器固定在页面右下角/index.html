@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>演示：当页面滚动时将HTML5视频播放器固定在页面右下角</title>
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="css/demo.css">
+<style>
+#videoBox {
+  border: 10px solid #212223;
+  transition: 0.5s;
+}
+video {
+  width: 100%;
+  vertical-align: bottom;
+}
+ 
+#videoBox.in {
+  animation: ac 1s;
+}
+ 
+#videoBox.out {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  z-index: 999;
+  animation: an 0.5s;
+}   
+
+#suggBox p span {
+  width: 100%;
+  display: block;
+  background: #924;
+  height: 8px;
+  margin: 10px 0;
+}
+
+#suggBox p:before {
+  width: 30%;
+  content: ' ';
+  display: block;
+  background: #121314;
+  height: 8px;
+  margin: 10px 0;
+}
+
+#suggBox p:after {
+  width: 70%;
+  content: ' ';
+  display: block;
+  background: #999;
+  height: 8px;
+  margin: 10px 0;
+}      
+</style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <div class="row">
+            <div class="col-md-3 col-xs-12"><h1 class="logo"><a href="http://www.helloweba.com" title="返回helloweba首页">helloweba</a></h1></div>
+            <div class="col-md-9 text-right"></div>
+        </div>
+    </header>
+    <div class="row main">
+        <div class="col-md-12">
+            <h2 class="top_title"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><a href="http://www.helloweba.com/view-blog-418.html">当页面滚动时将HTML5视频播放器固定在页面右下角</a></h2>
+            
+            <div class="row" style="margin-top: 30px">
+                <div class="col-md-5 col-md-offset-2 col-sm-12">
+                    <div id="videoBox" class="box">
+                      <video width="400" controls>
+                        <source src="//media.html5media.info/video.mp4" type="video/mp4"> 
+                        Your browser does not support HTML5 video.
+                      </video>
+                    </div>  
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5 col-md-offset-2 col-sm-12" id="suggBox">
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div>
+                        <div><p><span></span><span></span><span></span><span></span></p></div> 
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <footer>
+        <p>Powered by helloweba.com  允许转载、修改和使用本站的DEMO，但请注明出处：<a href="http://www.helloweba.com">www.helloweba.com</a></p>
+    </footer>
+</div>
+<script src="http://cdn.bootcss.com/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+<script>window.jQuery || document.write('<script src="../js/jquery-1.11.0.min.js"><\/script>')</script>
+<script>
+var ha = ( $('#videoBox').offset().top + $('#videoBox').height() );
+
+$(window).scroll(function(){  
+
+    if ( $(window).scrollTop() > ha + 500 ) { 
+    $('#videoBox').css('bottom','0'); 
+    } else if ( $(window).scrollTop() < ha + 200) {  
+    $('#videoBox').removeClass('out').addClass('in');     
+    } else {       
+    $('#videoBox').removeClass('in').addClass('out');   
+    $('#videoBox').css('bottom','-500px');             
+  };  
+
+});
+</script> 
+</body>
+</html>
