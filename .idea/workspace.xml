@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="915ea6eb-c3aa-4f8f-a6be-5e42fbde0b97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/MaterialIcons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/Roboto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/asnavfor-rtl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/basic-carousel-rtl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/basic-carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/basic-slider-with-caption.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/basic-slider-with-custom-direction-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/carousel-min-max.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/css/flexslider-rtl-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/css/flexslider-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/dynamic-carousel-min-max.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-medium/eot/1110FC_0.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-medium/svg/1110FC_0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-medium/svg/svg_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-medium/woff/1110FC_0.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-regular/eot/11014B_0.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-regular/svg/11014B_0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-regular/svg/svg_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-regular/ttf/11014B_0.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-regular/woff/11014B_0.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-semibold/eot/style_169898.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-semibold/svg/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-semibold/svg/style_169898.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-semibold/ttf/style_169898.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/fonts/webfonts/geo-semibold/woff/style_169898.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/images/kitchen_adventurer_caramel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/images/kitchen_adventurer_cheesecake_brownie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/images/kitchen_adventurer_donut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/images/kitchen_adventurer_lemon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/index-rtl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/froogaloop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/jquery.fitvid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/jquery.mousewheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/shBrushCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/shBrushJScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/shBrushXml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/js/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/thumbnail-controlnav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/thumbnail-slider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/video-wistia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/01效果图/JQuery轮播(一).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/01效果图/精美的jQuery视差效果图片轮播插件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/01效果图/轮播01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/arr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/s1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/s2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/s3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/s4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/sc1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/sc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/sc3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/sc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/sc5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/images/sc6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/jquery.flexslider-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/css/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/03-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/03-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/banner2016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/banner2016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/btn1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/btn2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/btn3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/btn4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/index_228.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/index_229.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/menu_pic1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/menu_pic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/menu_pic3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/img/menu_pic4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/js/banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/js/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/说明.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/css/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/css/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/bannerL.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/bannerL.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/bannerR.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/bannerR.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/long5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short1.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short10.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short2.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short3.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short4.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short5.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short6.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short7.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short8.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short9.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/img/short9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/banner.index.js" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/banner.index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/images/ban1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/images/ban1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/images/ban2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/images/ban2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/images/ban3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/images/ban3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/images/qf_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/images/qf_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/jquery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/jquery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01轮播/轮播01/lunbo01.html" beforeDir="false" afterPath="$PROJECT_DIR$/01轮播/【示例】轮播/lunbo01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/01效果图/CSS3 Material 设计样式的按钮 带点击波纹特效.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/01效果图/jQuery自定义美化Select下拉框插件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/01效果图/表单文本对齐.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/.idea/css3-material-design-button.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Component.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/button.html" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/button.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/jQuery自定义美化Select下拉框插件/jquery-custom-select-plugin/css/selectFilter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/jQuery自定义美化Select下拉框插件/jquery-custom-select-plugin/images/icon_arrow_down_x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/jQuery自定义美化Select下拉框插件/jquery-custom-select-plugin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/jQuery自定义美化Select下拉框插件/jquery-custom-select-plugin/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/jQuery自定义美化Select下拉框插件/jquery-custom-select-plugin/js/selectFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/表单文本对齐/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02按钮&amp;&amp;表单/表单文本对齐/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/inline-block列表布局.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/table-cell列表布局(了解).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/两栏自适应布局.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/元素两端对齐.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/元素左右对齐.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/动态粘性页脚.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/圣杯布局.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/大小不固定元素的垂直居中.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03布局/01效果图/等高布局.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04导航/01效果图/jQuery左侧带小图标的多级下拉菜单.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04导航/jQuery左侧带小图标的多级下拉菜单/jquery-side-icon-dropdown-menu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04导航/jQuery左侧带小图标的多级下拉菜单/jquery-side-icon-dropdown-menu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/01效果图/CSS3 3D鼠标滑过翻转按钮.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/01效果图/纯CSS3实现的立方体旋转相册.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/.idea/CSS3 3D鼠标滑过翻转按钮.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/CSS3 3D鼠标滑过翻转按钮/翻转按钮.html" beforeDir="false" afterPath="$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/翻转按钮.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/纯CSS3实现的立方体旋转相册/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13动画/纯CSS3实现的立方体旋转相册/效果预览.url" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13动画/纯CSS3实现的立方体旋转相册/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index3.html" />
+        <option value="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index4.html" />
+        <option value="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index2.html" />
+        <option value="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/index.html" />
+        <option value="$PROJECT_DIR$/01轮播/Flexslider图片轮播、文字图片相结合滑动切换效果/README.md" />
+        <option value="$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/index.html" />
+        <option value="$PROJECT_DIR$/00CSS效果类/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/Roboto.css" />
+        <option value="$PROJECT_DIR$/00CSS效果类/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/MaterialIcons.css" />
+        <option value="$PROJECT_DIR$/00CSS效果类/CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/index.html" />
+        <option value="$PROJECT_DIR$/00CSS效果类/CSS3 Material 设计样式的按钮 带点击波纹特效/README.md" />
+        <option value="$PROJECT_DIR$/04导航/jQuery左侧带小图标的多级下拉菜单/jquery-side-icon-dropdown-menu/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1860" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Component" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Component" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+              <item name="00CSS效果类" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Component" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+              <item name="13动画" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Component" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+              <item name="13动画" type="462c0819:PsiDirectoryNode" />
+              <item name="纯CSS3实现的立方体旋转相册" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/00CSS效果类/CSS3 Material 设计样式的按钮 带点击波纹特效" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\00-2020-2019\study\01doc\Component\00CSS效果类" />
+      <recent name="D:\00-2020-2019\study\01doc\Component\00CSS效果类\CSS3 Material 设计样式的按钮 带点击波纹特效\css3-material-design-button\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\00-2020-2019\study\01doc\Component\00CSS效果类\CSS3 Material 设计样式的按钮 带点击波纹特效" />
+      <recent name="D:\00-2020-2019\study\01doc\Component\00CSS效果类\CSS3 Material 设计样式的按钮 带点击波纹特效\css3-material-design-button\css" />
+      <recent name="D:\00-2020-2019\study\01doc\Component\00CSS效果类\CSS3 Material 设计样式的按钮 带点击波纹特效\css3-material-design-button\font" />
+      <recent name="D:\00-2020-2019\study\01doc\Component\01轮播\Flexslider图片轮播、文字图片相结合滑动切换效果" />
+      <recent name="D:\00-2020-2019\study\01doc\Component\01轮播\Flexslider图片轮播、文字图片相结合滑动切换效果\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="915ea6eb-c3aa-4f8f-a6be-5e42fbde0b97" name="Default Changelist" comment="" />
+      <created>1597825459704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597825459704</updated>
+      <workItem from="1597825460837" duration="3905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.20798898" />
+      <window_info id="Structure" order="1" sideWeight="0.5026738" side_tool="true" weight="0.15426998" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.17828418" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843792" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1464">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#pre#0;n#div#1;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#pre#0;n#div#2;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/说明.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/说明.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="56" column="41" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01轮播/JQuery轮播(一)/jiaoben5081/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01轮播/【示例】精美的jQuery视差效果图片轮播插件/jquery-parallax-image-slider/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="192" column="6" lean-forward="true" selection-start-line="192" selection-start-column="6" selection-end-line="192" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01轮播/【示例】轮播/banner.index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1046" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01轮播/【示例】轮播/lunbo01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02按钮&amp;&amp;表单/01效果图/表单文本对齐.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02按钮&amp;&amp;表单/01效果图/jQuery自定义美化Select下拉框插件.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02按钮&amp;&amp;表单/01效果图/CSS3 Material 设计样式的按钮 带点击波纹特效.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02按钮&amp;&amp;表单/jQuery自定义美化Select下拉框插件/jquery-custom-select-plugin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02按钮&amp;&amp;表单/表单文本对齐/demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/Roboto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="37" column="78" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01轮播/【插件】Flexslider图片轮播、文字图片相结合滑动切换效果/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="5" selection-start-line="5" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="19" selection-start-column="19" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/button.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/【参考】CSS3 Material 设计样式的按钮 带点击波纹特效/css3-material-design-button/css/MaterialIcons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/inline-block列表布局/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/inline-block列表布局/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#240#4456#0" />
+            <element signature="e#4507#8737#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/table-cell列表布局(了解)/demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/table-cell列表布局(了解)/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/两栏自适应布局/dmeo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/两栏自适应布局/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/元素两端对齐/demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/元素两端对齐/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/动态粘性页脚/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/圣杯布局/demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/瀑布流布局/CSS3/waterfall.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/元素左右对齐/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/圣杯布局/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/大小不固定元素的垂直居中/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/大小不固定元素的垂直居中/demo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/瀑布流布局/思路笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03布局/等高布局/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04导航/01效果图/jQuery左侧带小图标的多级下拉菜单.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04导航/jQuery左侧带小图标的多级下拉菜单/jquery-side-icon-dropdown-menu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05JS/print.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05JS/arrayToHeavy.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05JS/js页面切换/a.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05JS/js页面切换/b.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/翻转按钮.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00CSS效果类/CSS3 3D鼠标滑过翻转按钮/css3-3d-hover-rotate-button/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13动画/WOW/wow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13动画/WOW/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13动画/JS实现气泡从水中急速上升效果.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1550">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13动画/纯CSS3实现的立方体旋转相册/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13动画/纯CSS3实现的立方体旋转相册/效果预览.url">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13动画/纯CSS3实现的立方体旋转相册/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
